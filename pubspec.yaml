@@ -6,7 +6,8 @@ homepage: https://github.com/aknow2/utm
 author: tomoaki kanayama <tmknym@aknow2.com>
 
 environment:
-  sdk: ">=2.12.0 <3.0.0"
+  sdk: ^3.7.0
+
 
 dependencies:
   angles: ^2.1.0
